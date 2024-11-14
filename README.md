@@ -16,3 +16,7 @@ https://drive.google.com/file/d/17llXZH4SbV1sD0Hina9_wKWiSckuDEWg/view?usp=shari
 
 - GPT + Tello drones
 [https://drive.google.com/file/d/1127RYdFRqD1OGqXLIcm8_HQGYre1KeyV/view?usp=sharing](https://drive.google.com/file/d/1saFl6ptZDPUGxAXcJXqyrHQx0IFR_UPv/view?usp=sharing)
+
+## Research paper
+[View the PDF](https://github.com/StoyanGanchev/Controlling-robotic-swarms-using-Large-Language-Models/blob/b2de047f8a7a9fbdaea96dc642fe9a207d417e22/Controlling%20robotic%20swarms%20using%20LLMs%2C%20Stoyan%20Ganchev.pdf)
+
