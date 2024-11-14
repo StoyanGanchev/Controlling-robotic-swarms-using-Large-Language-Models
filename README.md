@@ -15,4 +15,4 @@ The study contributes to the fields of multi-robot systems and LLMs, showcasing 
 https://drive.google.com/file/d/17llXZH4SbV1sD0Hina9_wKWiSckuDEWg/view?usp=sharing
 
 - GPT + Tello drones
-https://drive.google.com/file/d/1127RYdFRqD1OGqXLIcm8_HQGYre1KeyV/view?usp=sharing
+[https://drive.google.com/file/d/1127RYdFRqD1OGqXLIcm8_HQGYre1KeyV/view?usp=sharing](https://drive.google.com/file/d/1saFl6ptZDPUGxAXcJXqyrHQx0IFR_UPv/view?usp=sharing)
